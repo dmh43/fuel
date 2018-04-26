@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 """Fuel dataset conversion utility."""
+import sys
+sys.path.append('/home/dany/fuel/')
 import argparse
 import importlib
 import os
